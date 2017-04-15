@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Camelstep</string>
+    <string name="app_logo">Camel step logo</string>
+    <string name="app_panner">Panner</string>
+    <string name="app_map">Map</string>
+    <string name="app_phone">+966-55-311-9990</string>
+    <string name="app_Email">support@camelstep.com</string>
+    <string name="btn_more">For more ..</string>
+    <string name="app_slg">"True meaning of coffee roster</string>
+    <string name="com_name">Camel Step </string>
+    <string name="com_address">SA, Riyadh, Abubakr St.</string>
+</resources>
